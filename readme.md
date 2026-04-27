@@ -21,7 +21,7 @@ Features
 - Dashboard visualization
 
 ##  Screenshots
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ##  Project Structure
 - notebooks/: PySpark ETL code
